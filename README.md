@@ -1,2 +1,2 @@
 # pinpongMX
-Rise in Rust Ping-Pong Project
+Rise in Rust MultiverseX Ping-Pong Project
